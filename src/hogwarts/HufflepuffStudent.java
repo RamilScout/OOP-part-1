@@ -48,5 +48,6 @@ public class HufflepuffStudent extends HogwartsStudent {
         return super.toString() + ", hardworking=" + hardworking +
                 ", loyalty=" + loyalty +
                 ", honesty=" + honesty;
+
     }
 }

@@ -64,5 +64,6 @@ public class SlytherinStudent extends HogwartsStudent {
                 ", ambition=" + ambition +
                 ", resourcefulness=" + resourcefulness +
                 ", powerLust=" + powerLust;
+
     }
 }
