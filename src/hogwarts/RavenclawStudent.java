@@ -56,5 +56,6 @@ public class RavenclawStudent extends HogwartsStudent {
                 ", wisdom=" + wisdom +
                 ", wit=" + wit +
                 ", creativity=" + creativity;
+
     }
 }

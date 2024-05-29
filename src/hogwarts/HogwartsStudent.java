@@ -46,5 +46,6 @@ public abstract class HogwartsStudent {
         return "name='" + name + '\'' +
                 ", magicPower=" + magicPower +
                 ", transgressionDistance=" + transgressionDistance;
+
     }
 }

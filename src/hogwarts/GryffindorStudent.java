@@ -48,5 +48,6 @@ public class GryffindorStudent extends HogwartsStudent {
         return super.toString() + ", nobility=" + nobility +
                 ", honor=" + honor +
                 ", bravery=" + bravery;
+
     }
 }
